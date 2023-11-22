@@ -1,0 +1,9 @@
+{
+	"name": "nex-adf-dev",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "78e8d516-19ac-4f10-8563-63fab7bb3dd5",
+		"tenantId": "9ae29b35-cd22-4927-a479-712cb2abe62b"
+	}
+}
